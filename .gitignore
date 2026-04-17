@@ -1,0 +1,32 @@
+# Uploads directory
+uploads/
+
+# Logs
+logs/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots
+screenshots/
+
+# Test reports
+test_report.json
+
+# Development files
+check_php_errors.py
+puppeteer_test.js
